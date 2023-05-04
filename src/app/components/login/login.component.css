@@ -1,0 +1,24 @@
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: linear-gradient(358.55deg, #00416A 2.43%, #E4E5E6 150.48%);
+
+    height: 100%;
+  }
+  .login {
+    color: #E4E5E6;
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+    background: linear-gradient(128.67deg, rgba(217, 217, 217, 0.3) -76.57%, rgba(217, 217, 217, 0) 114.08%);
+    box-shadow: 0px 10px 50px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;    ;
+  }
+
+  .ancho {
+    width: 80%;
+  }
