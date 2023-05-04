@@ -2,9 +2,8 @@
 
 
 # demo
-<a href="https://login-angular-teste.netlify.app/login"> clique aqui</a>
+<a href="https://login-angular-teste.netlify.app/"> clique aqui</a>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
 
 ## Development server
 
